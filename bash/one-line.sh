@@ -1,1 +1,1 @@
-cat test.txt | paste -sd ' '
+cat test.txt | paste -sd $DELIMETER
